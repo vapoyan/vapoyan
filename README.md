@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/victorapoyan/)
 [![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/ApoyanViktor)
